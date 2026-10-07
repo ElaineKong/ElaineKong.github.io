@@ -1,0 +1,9 @@
+{
+  "name": "Elaine — Native Mobile App Developer",
+  "short_name": "Elaine",
+  "description": "Native Android and iOS mobile app developer portfolio.",
+  "display": "browser",
+  "start_url": "/",
+  "background_color": "#0C0C0C",
+  "theme_color": "#0C0C0C"
+}
